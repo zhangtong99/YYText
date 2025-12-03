@@ -47,4 +47,5 @@ FOUNDATION_EXPORT const unsigned char YYTextVersionString[];
 #import "NSAttributedString+YYText.h"
 #import "NSParagraphStyle+YYText.h"
 #import "UIPasteboard+YYText.h"
+#import "YYTimer.h"
 #endif
